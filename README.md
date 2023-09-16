@@ -1,6 +1,9 @@
 # and101-project1-starter
 Starter code for the AND101 Project 1
 
+<a href="https://www.loom.com/share/ec245db160604214af66eaec82a67d2e">
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ec245db160604214af66eaec82a67d2e-with-play.gif">
+</a>
 
 If I had to describe this project in three (3) emojis, they would be: 😄🤠😎
 
