@@ -30,6 +30,13 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/d4Mfy1K" data-context="false" ><a href="//imgur.com/a/d4Mfy1K"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
+<div>
+    <a href="https://www.loom.com/share/ec245db160604214af66eaec82a67d2e"></a>
+    <a href="https://www.loom.com/share/ec245db160604214af66eaec82a67d2e">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ec245db160604214af66eaec82a67d2e-with-play.gif">
+    </a>
+  </div>
+
 <img src='https://imgur.com/a/d4Mfy1K' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
